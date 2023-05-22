@@ -1,0 +1,78 @@
+C:\Users\subhajitp\source\repos\LMS Project2\LMS Project2\obj\Debug\net6.0\LMS Project2.csproj.AssemblyReference.cache
+C:\Users\subhajitp\source\repos\LMS Project2\LMS Project2\obj\Debug\net6.0\LMS Project2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\subhajitp\source\repos\LMS Project2\LMS Project2\obj\Debug\net6.0\LMS Project2.AssemblyInfoInputs.cache
+C:\Users\subhajitp\source\repos\LMS Project2\LMS Project2\obj\Debug\net6.0\LMS Project2.AssemblyInfo.cs
+C:\Users\subhajitp\source\repos\LMS Project2\LMS Project2\obj\Debug\net6.0\LMS Project2.csproj.CoreCompileInputs.cache
+C:\Users\subhajitp\source\repos\LMS Project2\LMS Project2\obj\Debug\net6.0\LMS Project2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\subhajitp\source\repos\LMS Project2\LMS Project2\obj\Debug\net6.0\LMS Project2.RazorAssemblyInfo.cache
+C:\Users\subhajitp\source\repos\LMS Project2\LMS Project2\obj\Debug\net6.0\LMS Project2.RazorAssemblyInfo.cs
+C:\Users\subhajitp\source\repos\LMS Project2\LMS Project2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\subhajitp\source\repos\LMS Project2\LMS Project2\bin\Debug\net6.0\appsettings.json
+C:\Users\subhajitp\source\repos\LMS Project2\LMS Project2\bin\Debug\net6.0\LMS Project2.staticwebassets.runtime.json
+C:\Users\subhajitp\source\repos\LMS Project2\LMS Project2\bin\Debug\net6.0\LMS Project2.exe
+C:\Users\subhajitp\source\repos\LMS Project2\LMS Project2\bin\Debug\net6.0\LMS Project2.deps.json
+C:\Users\subhajitp\source\repos\LMS Project2\LMS Project2\bin\Debug\net6.0\LMS Project2.runtimeconfig.json
+C:\Users\subhajitp\source\repos\LMS Project2\LMS Project2\bin\Debug\net6.0\LMS Project2.dll
+C:\Users\subhajitp\source\repos\LMS Project2\LMS Project2\bin\Debug\net6.0\LMS Project2.pdb
+C:\Users\subhajitp\source\repos\LMS Project2\LMS Project2\obj\Debug\net6.0\staticwebassets\msbuild.LMS Project2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\subhajitp\source\repos\LMS Project2\LMS Project2\obj\Debug\net6.0\staticwebassets\msbuild.build.LMS Project2.props
+C:\Users\subhajitp\source\repos\LMS Project2\LMS Project2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LMS Project2.props
+C:\Users\subhajitp\source\repos\LMS Project2\LMS Project2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LMS Project2.props
+C:\Users\subhajitp\source\repos\LMS Project2\LMS Project2\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\subhajitp\source\repos\LMS Project2\LMS Project2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\subhajitp\source\repos\LMS Project2\LMS Project2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\subhajitp\source\repos\LMS Project2\LMS Project2\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\subhajitp\source\repos\LMS Project2\LMS Project2\obj\Debug\net6.0\scopedcss\bundle\LMS Project2.styles.css
+C:\Users\subhajitp\source\repos\LMS Project2\LMS Project2\obj\Debug\net6.0\scopedcss\projectbundle\LMS Project2.bundle.scp.css
+C:\Users\subhajitp\source\repos\LMS Project2\LMS Project2\obj\Debug\net6.0\LMS Project2.dll
+C:\Users\subhajitp\source\repos\LMS Project2\LMS Project2\obj\Debug\net6.0\refint\LMS Project2.dll
+C:\Users\subhajitp\source\repos\LMS Project2\LMS Project2\obj\Debug\net6.0\LMS Project2.pdb
+C:\Users\subhajitp\source\repos\LMS Project2\LMS Project2\obj\Debug\net6.0\LMS Project2.genruntimeconfig.cache
+C:\Users\subhajitp\source\repos\LMS Project2\LMS Project2\obj\Debug\net6.0\ref\LMS Project2.dll
+C:\Users\subhajitp\source\repos\LMS Project2\LMS Project2\bin\Debug\net6.0\libman.json
+C:\Users\subhajitp\source\repos\LMS Project2\LMS Project2\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\subhajitp\source\repos\LMS Project2\LMS Project2\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\subhajitp\source\repos\LMS Project2\LMS Project2\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\subhajitp\source\repos\LMS Project2\LMS Project2\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\subhajitp\source\repos\LMS Project2\LMS Project2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\subhajitp\source\repos\LMS Project2\LMS Project2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\subhajitp\source\repos\LMS Project2\LMS Project2\obj\Debug\net6.0\LMS Project2.csproj.CopyComplete
+E:\internship\LMS Project2\LMS Project2\bin\Debug\net6.0\appsettings.Development.json
+E:\internship\LMS Project2\LMS Project2\bin\Debug\net6.0\libman.json
+E:\internship\LMS Project2\LMS Project2\bin\Debug\net6.0\appsettings.json
+E:\internship\LMS Project2\LMS Project2\bin\Debug\net6.0\LMS Project2.staticwebassets.runtime.json
+E:\internship\LMS Project2\LMS Project2\bin\Debug\net6.0\LMS Project2.exe
+E:\internship\LMS Project2\LMS Project2\bin\Debug\net6.0\LMS Project2.deps.json
+E:\internship\LMS Project2\LMS Project2\bin\Debug\net6.0\LMS Project2.runtimeconfig.json
+E:\internship\LMS Project2\LMS Project2\bin\Debug\net6.0\LMS Project2.dll
+E:\internship\LMS Project2\LMS Project2\bin\Debug\net6.0\LMS Project2.pdb
+E:\internship\LMS Project2\LMS Project2\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\internship\LMS Project2\LMS Project2\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\internship\LMS Project2\LMS Project2\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\internship\LMS Project2\LMS Project2\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\internship\LMS Project2\LMS Project2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\internship\LMS Project2\LMS Project2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\internship\LMS Project2\LMS Project2\obj\Debug\net6.0\LMS Project2.csproj.AssemblyReference.cache
+E:\internship\LMS Project2\LMS Project2\obj\Debug\net6.0\LMS Project2.GeneratedMSBuildEditorConfig.editorconfig
+E:\internship\LMS Project2\LMS Project2\obj\Debug\net6.0\LMS Project2.AssemblyInfoInputs.cache
+E:\internship\LMS Project2\LMS Project2\obj\Debug\net6.0\LMS Project2.AssemblyInfo.cs
+E:\internship\LMS Project2\LMS Project2\obj\Debug\net6.0\LMS Project2.csproj.CoreCompileInputs.cache
+E:\internship\LMS Project2\LMS Project2\obj\Debug\net6.0\LMS Project2.MvcApplicationPartsAssemblyInfo.cache
+E:\internship\LMS Project2\LMS Project2\obj\Debug\net6.0\LMS Project2.RazorAssemblyInfo.cache
+E:\internship\LMS Project2\LMS Project2\obj\Debug\net6.0\LMS Project2.RazorAssemblyInfo.cs
+E:\internship\LMS Project2\LMS Project2\obj\Debug\net6.0\staticwebassets\msbuild.LMS Project2.Microsoft.AspNetCore.StaticWebAssets.props
+E:\internship\LMS Project2\LMS Project2\obj\Debug\net6.0\staticwebassets\msbuild.build.LMS Project2.props
+E:\internship\LMS Project2\LMS Project2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LMS Project2.props
+E:\internship\LMS Project2\LMS Project2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LMS Project2.props
+E:\internship\LMS Project2\LMS Project2\obj\Debug\net6.0\staticwebassets.pack.json
+E:\internship\LMS Project2\LMS Project2\obj\Debug\net6.0\staticwebassets.build.json
+E:\internship\LMS Project2\LMS Project2\obj\Debug\net6.0\staticwebassets.development.json
+E:\internship\LMS Project2\LMS Project2\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\internship\LMS Project2\LMS Project2\obj\Debug\net6.0\scopedcss\bundle\LMS Project2.styles.css
+E:\internship\LMS Project2\LMS Project2\obj\Debug\net6.0\scopedcss\projectbundle\LMS Project2.bundle.scp.css
+E:\internship\LMS Project2\LMS Project2\obj\Debug\net6.0\LMS Project2.csproj.CopyComplete
+E:\internship\LMS Project2\LMS Project2\obj\Debug\net6.0\LMS Project2.dll
+E:\internship\LMS Project2\LMS Project2\obj\Debug\net6.0\refint\LMS Project2.dll
+E:\internship\LMS Project2\LMS Project2\obj\Debug\net6.0\LMS Project2.pdb
+E:\internship\LMS Project2\LMS Project2\obj\Debug\net6.0\LMS Project2.genruntimeconfig.cache
+E:\internship\LMS Project2\LMS Project2\obj\Debug\net6.0\ref\LMS Project2.dll

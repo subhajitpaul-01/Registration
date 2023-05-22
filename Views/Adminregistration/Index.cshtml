@@ -1,0 +1,53 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+
+<body>
+
+ <script>
+        $(document).ready(function(){
+            registration();
+        });
+
+        function registration() {
+           if ($('#username').val() == '') {
+                alert('Enter User Name');
+                $('#username').focus();
+                return false;
+            }
+            if ($('#email').val() == '') {
+                alert('Enter Email');
+                $('#email').focus();
+                return false;
+            }
+            if ($('#password').val() == '') {
+                alert('Enter Password to Register');
+                $('#password').focus();
+                return false;
+            }
+            let param = { Admin_Name: $('#username').val(), Admin_Email: $('#email').val(), Admin_Password: $('#password').val() }
+            $.ajax({
+                type: "POST",
+                url: "registration",
+                data: param,
+                datatype: "json",
+                success: function (e) {
+                    if (data == 'Y') {
+                        alert = "Register Successful";
+                    }
+                },
+                error: function (e) {
+                    console.log(e);
+                    alert("Sorry: we are unable to process.");
+                }
+            });
+        }
+
+    </script>
+</body>
+</html>

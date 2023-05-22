@@ -1,0 +1,10 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "angular-ui@0.4.0",
+      "destination": "wwwroot/lib/angular"
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+     Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Admin Login and Registration</title>
+    @*<script src="~/javascript/javascript.js"></script>*@
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.4/jquery.min.js" integrity="sha512-pumBsjNRGGqkPzKHndZMaAG+bir374sORyzM3uulLV14lN5LyykqNk8eEeUlUkB3U0M4FApyaHraT65ihJhDpQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Jost:wght@500&display=swap" rel="stylesheet">
+    <link href="~/lms css/stylesheet.css" rel="stylesheet" />
+   @* <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js">
+    </script>*@
+</head>
+<body>
+    <div class="main">
+        <input type="checkbox" id="chk" aria-hidden="true">
+
+        <div class="signup">
+            @*<form>*@
+                <label for="chk" aria-hidden="true">Sign up</label>
+                <input type="text" name="txt" id="username" placeholder="User name" >
+                <input type="email" name="email"id="email" placeholder="Email" >
+                <input type="password" name="pswd" id="password" placeholder="Password">
+                <button class="btn btn-primary" id="btnSignup">Sign up</button>
+            @*</form>*@
+        </div>
+
+        <div class="login">
+            @*<form>*@
+                <label for="chk" aria-hidden="true">Log in</label>
+                <input type="email" name="email"id="userEmail" placeholder="Email" required="">
+                <input type="password" name="pswd"id="loginpassword" placeholder="Password" required="">
+                <button class="btn btn-primary" id="btnLogin">Log in</button>
+            @*/form>*@
+        </div>
+    </div>
+
+  
+    <script>
+        $(document).ready(function()
+        {
+            function validateLog() 
+            {
+                if ($('#UserEmail').val() == '') 
+                {
+                    alert('Enter User Email');
+                    $('#userEmail').focus();
+                    return false;
+                }
+                else if ($('#loginpassword').val() == '') 
+                {
+                    alert('Enter Password to login');
+                    $('#loginpassword').focus();
+                    return false;
+                }
+                else {
+                    return true;
+                }
+            }
+
+            $("#btnLogin").click(function () {
+                let valLog = validateLog();
+                if (valLog == true) {
+                    fnlogin();
+                }
+                else {
+                    alert(valLog);
+                }
+            });
+
+            function fnlogin()
+            {
+                let param = { Admin_Email: $('#userEmail').val(), Admin_Password: $('#loginpassword').val() }
+                console.log(param);
+                $.ajax
+                ({
+                    type: "POST",
+                    //contentType: "application/json; charset=utf-8",
+                    url: "admlogin",
+                    data: param,
+                    //datatype: "json",
+                    success: function (e) 
+                    {
+                        //if (e == 'Y') 
+                        //{
+                            alert("Login Successful");
+                        //}
+                    },
+                    error: function (e) 
+                    {
+                        alert("Sorry: we are unable to process.");
+                    }
+                });
+            }
+
+            
+     
+            
+            
+            function validateReg(){
+                if ($('#username').val() == '') {
+                    alert('Enter User Name');
+                    $('#username').focus();
+                    return false;
+                }
+                else if ($('#email').val() == '') {
+                    alert('Enter Email');
+                    $('#email').focus();
+                    return false;
+                }
+                else if ($('#password').val() == '') {
+                    alert('Enter Password to Register');
+                    $('#password').focus();
+                    return false;
+                }
+                else{
+                    return true;
+                }
+            }
+
+            $("#btnSignup").click(function(){
+                let valReg = validateReg();
+                if (valReg == true) {
+                    fnregistration();
+                }
+                else{
+                    alert(valReg);
+                }
+            });
+
+            function fnregistration() {
+                
+                let param = { Admin_Name: $('#username').val(), Admin_Email: $('#email').val(), Admin_Password: $('#password').val() };
+                console.log(param);
+                $.ajax
+                ({
+                    type: "post",
+                    url: "admregistration",
+                    data: param,
+                    //datatype: "json",
+                    success: function (e)
+                    {
+                        //if (data == 'Y')
+                       // {
+                            alert ("Register Successful");
+                        //}
+                    },
+                    error: function (e)
+                    {
+                        console.log(e);
+                        alert("Sorry: we are unable to process.");
+                    }
+
+
+                });
+            }
+        });
+
+            
+        //});
+    </script>
+</body>
+</html>
+
+
